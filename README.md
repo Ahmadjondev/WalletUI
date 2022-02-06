@@ -1,5 +1,4 @@
-# wallet_app
-
+# Wallet App UI
 A new Flutter project.
 
 ## Getting Started
